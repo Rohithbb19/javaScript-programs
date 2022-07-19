@@ -1,4 +1,4 @@
-// change the value of numbert
+// change the value of number
 
 let number = 81;
 let isPerfect = 0;
